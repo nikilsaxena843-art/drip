@@ -19,7 +19,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # ==================== CONFIG ====================
-BOT_TOKEN = "8717905432:AAF2tELENa6j-Iu-rqIhxfggZM1iDECvFYI"
+BOT_TOKEN = "8685296897:AAH_u8V4Hs9Xyerb5jCvqhLCZz7TokzO9oY"
 ADMIN_IDS = [6480827931]
 ADMIN_USERNAME = "DRIP_CLIENT_OFFICIAL"
 DEFAULT_QR = "https://vipxofficial.in/payqr.jpg"
