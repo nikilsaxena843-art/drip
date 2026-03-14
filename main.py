@@ -21,7 +21,7 @@ logger = logging.getLogger(__name__)
 # ==================== CONFIG ====================
 BOT_TOKEN = "8717905432:AAF2tELENa6j-Iu-rqIhxfggZM1iDECvFYI"
 ADMIN_IDS = [6480827931]
-ADMIN_USERNAME = "onlinesoonhai"
+ADMIN_USERNAME = "DRIP_CLIENT_OFFICIAL"
 DEFAULT_QR = "https://vipxofficial.in/payqr.jpg"
 DEFAULT_UPI = "h9641729-1@okaxis"
 
